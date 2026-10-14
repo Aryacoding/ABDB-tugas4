@@ -41,3 +41,32 @@
 *✧･ﾟ: *✧･ﾟ:* Mari selesaikan misi ini dan taklukkan galaksi frontend! *:･ﾟ✧*:･ﾟ✧*
 
 </div>
+<div align="center">
+  <!-- Animasi Astronot -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="Astronaut floating">
+  
+  <!-- Animasi Logo React -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React Spinning">
+  
+  <!-- Animasi Roket -->
+  <img src="https://media.giphy.com/media/3o7aD2saal6qNmEjXW/giphy.gif" width="100" alt="Rocket Space">
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="separator">
+</div>
+
+<div align="center">
+  <h3>🛠️ Teknologi Pesawat Tempur (Tech Stack):</h3>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</div>
